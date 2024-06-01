@@ -5,6 +5,7 @@ A work published in 2024 IEEE International Conference on Cloud Computing.
 Introduction of TempoScale:
 * Innovative solution to address cluster dynamics and workload variability.
 * Captures correlations in time series data for intelligent elastic scaling.
+  
 Key Features:
 * Long-term trend analysis:
   * Reveals changes in workload and resource demands.
@@ -15,6 +16,7 @@ Key Features:
 * Experimental Validation:
   * Conducted experiments on K8s with realistic data from Alibaba.
   * Results demonstrate feasibility of TempoScale.
+
 Benefits:
 * Enhances system performance and stability.
 * Effectively reduces resource costs.
