@@ -24,11 +24,11 @@ A work published in 2024 IEEE 17th International Conference on Cloud Computing (
 * Promotes sustainable development of cloud computing across various industries.
 
 ## Getting Started
-* The _Auto-Scaling_ folder contains our designed auto-scaling algorithm, which can be used for auto-scaling on the K8s platform.
-* The _CEEMDAN_ folder contains the modal decomposition algorithm.
-* The _Long-Term_ folder contains the Informer algorithm for long-term forecasting.
-* The _Short-Term_ folder contains the esDNN algorithm for short-term forecasting.
-* The _MLP_ folder contains the MLP layer used for processing intermediate results.
+* **Auto-Scaling:** It contains our designed auto-scaling algorithm, which can be used for auto-scaling on the K8s platform.
+* **CEEMDAN:** It contains the modal decomposition algorithm.
+* **Long-Term:** It contains the Informer algorithm for long-term forecasting.
+* **Short-Term:** It contains the esDNN algorithm for short-term forecasting.
+* **MLP:** It contains the MLP layer used for processing intermediate results.
 
 ## Citation
 If you use TempoScale for your research, please cite our paper:
