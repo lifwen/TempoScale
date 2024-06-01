@@ -4,14 +4,15 @@ A work published in 2024 IEEE International Conference on Cloud Computing.
 ## About
 Introduction of TempoScale:
 
-*Innovative solution to address cluster dynamics and workload variability.
-*Captures correlations in time series data for intelligent elastic scaling.
+* Innovative solution to address cluster dynamics and workload variability.
+* Captures correlations in time series data for intelligent elastic scaling.
 
 Key Features:
 
 Long-term trend analysis:
 * Reveals changes in workload and resource demands.
 * Supports proactive resource allocation over extended periods.
+  
 Short-term volatility analysis:
 * Examines variations in workload and resource demands.
 * Facilitates real-time scheduling and rapid responsiveness.
