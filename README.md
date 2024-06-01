@@ -1,7 +1,7 @@
 # TempoScale: A Cloud Workloads Prediction Approach Integrating Short Term and Long Term Information
+A work published in 2024 IEEE 17th International Conference on Cloud Computing (CLOUD).
 
 ## About
-A work published in 2024 IEEE 17th International Conference on Cloud Computing (CLOUD).
 **Introduction of TempoScale:**
 * Innovative solution to address cluster dynamics and workload variability.
 * Captures correlations in time series data for intelligent elastic scaling.
