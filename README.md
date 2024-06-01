@@ -13,7 +13,8 @@ Key Features:
 * Short-term volatility analysis:
   * Examines variations in workload and resource demands.
   * Facilitates real-time scheduling and rapid responsiveness.
-* Experimental Validation:
+
+Experimental Validation:
   * Conducted experiments on K8s with realistic data from Alibaba.
   * Results demonstrate feasibility of TempoScale.
 
