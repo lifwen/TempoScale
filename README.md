@@ -24,7 +24,7 @@ A work published in 2024 IEEE 17th International Conference on Cloud Computing (
 * Promotes sustainable development of cloud computing across various industries.
 
 ## Getting Started
-* **Auto-Scaling:** It contains our designed auto-scaling algorithm, which can be used for auto-scaling on the K8s platform.
+* **Auto-Scaling:** It contains our designed auto-scaling algorithm, which can be used for auto-scaling on the K8s.
 * **CEEMDAN:** It contains the modal decomposition algorithm.
 * **Long-Term:** It contains the Informer algorithm for long-term forecasting.
 * **Short-Term:** It contains the esDNN algorithm for short-term forecasting.
