@@ -8,15 +8,13 @@ Introduction of TempoScale:
 * Captures correlations in time series data for intelligent elastic scaling.
 
 Key Features:
-
-Long-term trend analysis:
-* Reveals changes in workload and resource demands.
-* Supports proactive resource allocation over extended periods.
-  
-Short-term volatility analysis:
-* Examines variations in workload and resource demands.
-* Facilitates real-time scheduling and rapid responsiveness.
-* Experimental Validation:
+* Long-term trend analysis:
+** Reveals changes in workload and resource demands.
+** Supports proactive resource allocation over extended periods.
+* Short-term volatility analysis:
+** Examines variations in workload and resource demands.
+** Facilitates real-time scheduling and rapid responsiveness.
+** Experimental Validation:
 
 Benefits:
 
