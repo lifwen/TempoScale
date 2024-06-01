@@ -25,10 +25,10 @@ A work published in 2024 IEEE 17th International Conference on Cloud Computing (
 
 ## Getting Started
 * **Auto-Scaling:** It contains our designed auto-scaling algorithm, which can be used for auto-scaling on the K8s.
-* **CEEMDAN:** It contains the modal decomposition algorithm.
-* **Long-Term:** It contains the Informer algorithm for long-term forecasting.
-* **Short-Term:** It contains the esDNN algorithm for short-term forecasting.
-* **MLP:** It contains the MLP layer used for processing intermediate results.
+* **CEEMDAN:** It contains the modal decomposition algorithm in TempoScale.
+* **Long-Term:** It contains the Informer algorithm for long-term forecasting in TempoScale.
+* **Short-Term:** It contains the esDNN algorithm for short-term forecasting in TempoScale.
+* **MLP:** It contains the MLP layer used for processing intermediate results in TempoScale.
 
 ## Citation
 If you use TempoScale for your research, please cite our paper:
